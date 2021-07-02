@@ -6,7 +6,7 @@ import java.util.*;
 //                      Account Number  780123456
 //                      Checksum ID     7
 
-public class JavaProgram3 {
+public class JavaCreditCardProgram {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         boolean errorOccured = true;
